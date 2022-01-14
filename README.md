@@ -1,6 +1,6 @@
 # Space-Survival
 
-This game was creaded by using Pygame and Python.
+This game was created by using Pygame and Python.
 
 Notes: Images and soundtracks that used in this game is not fully uploaded due to copyright.
 
